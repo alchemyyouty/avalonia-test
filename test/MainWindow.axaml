@@ -18,7 +18,7 @@
       </Style>
     </StackPanel.Styles>
 
-    <TextBlock Classes="h1">I'm a Heading!</TextBlock>
-    <Button Content="I'm a Button" />
+    <TextBlock Classes="h1">ToDo List Test</TextBlock>
+    <Button Name="SelfButton" Click="ButtonClick" Content="I'm a Button" />
   </StackPanel>
 </Window>
