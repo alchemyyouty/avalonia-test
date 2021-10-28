@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\test"
+    "\\test",
+    "\\Todo",
+    "\\Todo\\Models",
+    "\\Todo\\Services",
+    "\\Todo\\ViewModels",
+    "\\Todo\\Views"
   ],
-  "SelectedNode": "\\test\\MainWindow.axaml",
+  "SelectedNode": "\\Todo\\App.axaml.cs",
   "PreviewInSolutionExplorer": false
 }
