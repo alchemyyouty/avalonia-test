@@ -9,6 +9,7 @@
     <StackPanel>
       <CheckBox Margin="4">Walk the dog</CheckBox>
       <CheckBox Margin="4">Buy some milk</CheckBox>
+      <CheckBox Margin="4">I'm Home!</CheckBox>
     </StackPanel>
   </DockPanel>
 </UserControl>
